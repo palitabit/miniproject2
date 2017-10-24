@@ -1,0 +1,1 @@
+update member set name ='Nhamjai' where ID ='0001'; 

@@ -1,0 +1,6 @@
+insert into member(ID,Name,Surname,Age,Saraly,Tel,Email) Values('00001','Nhamjit','Rakkanrean','25','22000','0812345234','nhamjit@rmutsb.ac.th');
+insert into member(ID,Name,Surname,Age,Saraly,Tel,Email) Values('00002','Palita','Ruensugkhee','22','30000','0908890026','tonfernii-baby@live.com');
+insert into member(ID,Name,Surname,Age,Saraly,Tel,Email) Values('00003','Supawadee','Innim','21','25000','0806626386','supawadee26386@gmail.com');
+insert into member(ID,Name,Surname,Age,Saraly,Tel,Email) Values('00004','Sureeporn','Paibong','22','26000','0875636541','fang0938@gmail.com');
+insert into member(ID,Name,Surname,Age,Saraly,Tel,Email) Values('00005','Sunisa','Kajarean','22','22000','0854632512','miw123@gmail.com');
+insert into member(ID,Name,Surname,Age,Saraly,Tel,Email) Values('00006','Patiwat','Munjean','22','28000','0863695241','artpatiwat1235@gmail.com');
